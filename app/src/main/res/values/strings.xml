@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MemeShare</string>
+    <string name="share">Share</string>
+    <string name="next">Next</string>
+    <string name="meme_image">Meme Image</string>
+    <string name="fail_load">Failed to load meme :(</string>
+    <string name="send_message">Hey! Checkout this cool Meme I got from Reddit.</string>
+</resources>
